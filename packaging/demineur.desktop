@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Démineur
+Comment=Jeu de logique Démineur
+Exec=/usr/bin/demineur
+Icon=demineur
+Terminal=false
+Categories=Game;LogicGame;
+StartupNotify=true
+StartupWMClass=demineur
